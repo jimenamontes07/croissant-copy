@@ -1,0 +1,21 @@
+body{
+    background-color: #b9d9f9 !important;
+}
+h1,
+p{
+    text-align: center ;
+    margin-top:30px !important;
+}
+.pagelink a{
+
+    color: #156dc4;
+    text-decoration: underline;
+    margin:10px;
+}
+.img-croissant{
+    margin:30px;
+}
+p{
+    margin-left: 20px !important;
+    margin-right:20px !important;
+}
